@@ -1,0 +1,15 @@
+{
+  "name": "edd-boilerplate-mono",
+  "workspaces": [
+    "webapp"
+  ],
+  "version": "1.0.0",
+  "description": "Even driven design boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

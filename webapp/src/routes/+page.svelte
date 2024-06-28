@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h2>List of orders</h2>
+<p>You can view the existing orders for the furniture.</p>
+
+<style>
+
+</style>
